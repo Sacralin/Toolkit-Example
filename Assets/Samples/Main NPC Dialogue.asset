@@ -212,113 +212,6 @@ MonoBehaviour:
     triggerFlagData: Button2
     triggerValueData: 
     eventTypeData: 
-  - nodeTypeData: Flag
-    customNodeNameData: CustomNodeName
-    GUIDData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
-    graphPositionData: {x: -720, y: 344}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: e4064fe0-9b38-47e1-a6dd-e6a032fc6f52
-      edgeDataData:
-        sourceNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
-        targetNodeGuidData: ab11cebb-d15e-48ee-8438-0a1394328d77
-    - indexData: 1
-      choiceData: 
-      portNameData: ee538481-957b-4c13-ac26-28412c3aabc2
-      edgeDataData:
-        sourceNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
-        targetNodeGuidData: 376601f3-d83e-4e6f-a162-934bcaafcf7d
-    textData: Dialogue Text
-    flagObjectData: ExampleSceneFlagList
-    triggerFlagData: Button1
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: Start
-    customNodeNameData: dude
-    GUIDData: 04de9da0-3358-4514-88b3-15d5b78525dd
-    graphPositionData: {x: 50, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: 
-      edgeDataData:
-        sourceNodeGuidData: 04de9da0-3358-4514-88b3-15d5b78525dd
-        targetNodeGuidData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
-    textData: Dialogue Text
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: BasicDialogue
-    customNodeNameData: CustomNodeName
-    GUIDData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
-    graphPositionData: {x: 443, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: c923f1e4-2042-4671-84f3-fecf0f81c163
-      edgeDataData:
-        sourceNodeGuidData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
-        targetNodeGuidData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
-    textData: 'I have been exploring these ruins
-
-      for days now, searching for
-      a way
-
-      out.'
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: BasicDialogue
-    customNodeNameData: CustomNodeName
-    GUIDData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
-    graphPositionData: {x: 693, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: 7f63153b-2248-4a6f-925e-4cf721fe4721
-      edgeDataData:
-        sourceNodeGuidData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
-        targetNodeGuidData: 3cb6651a-c96d-494e-8887-8689ca2098d5
-    textData: But alas, I am unable to continue.
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: BasicDialogue
-    customNodeNameData: CustomNodeName
-    GUIDData: 3cb6651a-c96d-494e-8887-8689ca2098d5
-    graphPositionData: {x: 962, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: 05dea40b-ed67-40c5-b402-0721f6368734
-      edgeDataData:
-        sourceNodeGuidData: 3cb6651a-c96d-494e-8887-8689ca2098d5
-        targetNodeGuidData: 2dd4d986-f1a2-4520-8127-4a03763474bf
-    textData: "It is said that there are two \nkeystones hidden in the ruins."
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: BasicDialogue
-    customNodeNameData: CustomNodeName
-    GUIDData: 2dd4d986-f1a2-4520-8127-4a03763474bf
-    graphPositionData: {x: 1230, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: ccd95182-724a-491e-a451-cb981396f912
-      edgeDataData:
-        sourceNodeGuidData: 2dd4d986-f1a2-4520-8127-4a03763474bf
-        targetNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
-    textData: "You must find them to escape \nthis place."
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
   - nodeTypeData: BasicDialogue
     customNodeNameData: CustomNodeName
     GUIDData: ddbe2367-b5bf-4ced-b92e-1bceea2d1d82
@@ -331,22 +224,6 @@ MonoBehaviour:
         sourceNodeGuidData: ddbe2367-b5bf-4ced-b92e-1bceea2d1d82
         targetNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
     textData: Hello again adventurer.
-    flagObjectData: 
-    triggerFlagData: 
-    triggerValueData: 
-    eventTypeData: 
-  - nodeTypeData: BasicDialogue
-    customNodeNameData: CustomNodeName
-    GUIDData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
-    graphPositionData: {x: 249, y: 50}
-    choicesData:
-    - indexData: 0
-      choiceData: 
-      portNameData: 
-      edgeDataData:
-        sourceNodeGuidData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
-        targetNodeGuidData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
-    textData: Hello Adventurer.
     flagObjectData: 
     triggerFlagData: 
     triggerValueData: 
@@ -491,14 +368,161 @@ MonoBehaviour:
     triggerFlagData: 
     triggerValueData: 
     eventTypeData: 
-  currentNode:
-    nodeTypeData: End
+  - nodeTypeData: Flag
     customNodeNameData: CustomNodeName
-    GUIDData: a726405a-280d-4f1b-ba15-1b6d2e3d1685
-    graphPositionData: {x: 1001, y: 711}
-    choicesData: []
+    GUIDData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
+    graphPositionData: {x: -720, y: 344}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: e4064fe0-9b38-47e1-a6dd-e6a032fc6f52
+      edgeDataData:
+        sourceNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
+        targetNodeGuidData: ab11cebb-d15e-48ee-8438-0a1394328d77
+    - indexData: 1
+      choiceData: 
+      portNameData: ee538481-957b-4c13-ac26-28412c3aabc2
+      edgeDataData:
+        sourceNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
+        targetNodeGuidData: 376601f3-d83e-4e6f-a162-934bcaafcf7d
+    textData: Dialogue Text
+    flagObjectData: ExampleSceneFlagList
+    triggerFlagData: Button1
+    triggerValueData: 
+    eventTypeData: 
+  - nodeTypeData: Start
+    customNodeNameData: dude
+    GUIDData: 04de9da0-3358-4514-88b3-15d5b78525dd
+    graphPositionData: {x: 50, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: 
+      edgeDataData:
+        sourceNodeGuidData: 04de9da0-3358-4514-88b3-15d5b78525dd
+        targetNodeGuidData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
     textData: Dialogue Text
     flagObjectData: 
-    triggerFlagData: ddbe2367-b5bf-4ced-b92e-1bceea2d1d82
+    triggerFlagData: 
     triggerValueData: 
-    eventTypeData: Return To Node
+    eventTypeData: 
+  - nodeTypeData: BasicDialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
+    graphPositionData: {x: 443, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: c923f1e4-2042-4671-84f3-fecf0f81c163
+      edgeDataData:
+        sourceNodeGuidData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
+        targetNodeGuidData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
+    textData: 'I have been exploring these ruins
+
+      for days now, searching for
+      a way
+
+      out.'
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
+  - nodeTypeData: BasicDialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
+    graphPositionData: {x: 693, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: 7f63153b-2248-4a6f-925e-4cf721fe4721
+      edgeDataData:
+        sourceNodeGuidData: 5cd4bbd0-c8ef-4e11-a08b-2f5f202a514e
+        targetNodeGuidData: 3cb6651a-c96d-494e-8887-8689ca2098d5
+    textData: But alas, I am unable to continue.
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
+  - nodeTypeData: BasicDialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 3cb6651a-c96d-494e-8887-8689ca2098d5
+    graphPositionData: {x: 962, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: 05dea40b-ed67-40c5-b402-0721f6368734
+      edgeDataData:
+        sourceNodeGuidData: 3cb6651a-c96d-494e-8887-8689ca2098d5
+        targetNodeGuidData: 2dd4d986-f1a2-4520-8127-4a03763474bf
+    textData: "It is said that there are two \nkeystones hidden in the ruins."
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
+  - nodeTypeData: BasicDialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 2dd4d986-f1a2-4520-8127-4a03763474bf
+    graphPositionData: {x: 1230, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: ccd95182-724a-491e-a451-cb981396f912
+      edgeDataData:
+        sourceNodeGuidData: 2dd4d986-f1a2-4520-8127-4a03763474bf
+        targetNodeGuidData: ee590c0d-fc4b-418f-8fbd-e1a6c3cbf5c0
+    textData: "You must find them to escape \nthis place."
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
+  - nodeTypeData: BasicDialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
+    graphPositionData: {x: 249, y: 50}
+    choicesData:
+    - indexData: 0
+      choiceData: 
+      portNameData: 
+      edgeDataData:
+        sourceNodeGuidData: 08b16024-880b-4ac4-aaec-a7bcb45655cb
+        targetNodeGuidData: 1bcbaa6d-e931-4c8a-938e-1c23da198101
+    textData: Hello Adventurer.
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
+  currentNode:
+    nodeTypeData: Dialogue
+    customNodeNameData: CustomNodeName
+    GUIDData: 7f76ef49-40fd-4785-ad30-fed1c68f5342
+    graphPositionData: {x: -12, y: 393}
+    choicesData:
+    - indexData: 0
+      choiceData: Who are you?
+      portNameData: ffd43cb1-6fe7-48c5-a4f4-6ab17aa71452
+      edgeDataData:
+        sourceNodeGuidData: 7f76ef49-40fd-4785-ad30-fed1c68f5342
+        targetNodeGuidData: 0ffefec6-5111-48e4-bece-2791ef397cee
+    - indexData: 1
+      choiceData: How do i get out?
+      portNameData: a9d76966-ee3b-4677-a45c-2c08127caca6
+      edgeDataData:
+        sourceNodeGuidData: 7f76ef49-40fd-4785-ad30-fed1c68f5342
+        targetNodeGuidData: 801bb019-7d8a-4a1e-a1e2-13b77003985f
+    - indexData: 2
+      choiceData: Why are you here?
+      portNameData: 225a4e2e-b687-48db-8847-9df4e23be0b3
+      edgeDataData:
+        sourceNodeGuidData: 7f76ef49-40fd-4785-ad30-fed1c68f5342
+        targetNodeGuidData: 615c6723-73cc-41b7-863d-288292686874
+    - indexData: 3
+      choiceData: Nevermind.
+      portNameData: d0420361-8a5e-4c74-a94c-7003ca760e57
+      edgeDataData:
+        sourceNodeGuidData: 7f76ef49-40fd-4785-ad30-fed1c68f5342
+        targetNodeGuidData: a726405a-280d-4f1b-ba15-1b6d2e3d1685
+    textData: How can i help?
+    flagObjectData: 
+    triggerFlagData: 
+    triggerValueData: 
+    eventTypeData: 
